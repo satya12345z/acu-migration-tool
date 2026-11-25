@@ -1,0 +1,2 @@
+csv_line,prm_frm,frm_desc15,frm_desc25,grd_grd,grd_desc15,grd_desc25,prm_size,prm_fnsh,prm_size_desc,prm_shrt_size_desc,InventoryID,Description,AcumaticaRecordId,Status
+2,10D222 ,10D 45         ,10D 45                   ,316     ,SA312-TP316/L S,SA312-TP316/L SMLS       ,1540           ,COM     ,"1-1/2"" S/40              ","1-1/2"" S/40     ",10D2221000,"10D2223161540COM10D 45SA312-TP316/L SMLS1-1/2"" S/40",92d20848-d4e8-f111-9c93-00e04c921c9b,Created
