@@ -1,0 +1,17 @@
+{
+  "name": "acumatica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "acumaticaAuth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.21.1",
+    "dotenv": "^18.0.10"
+  }
+}
