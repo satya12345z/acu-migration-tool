@@ -1,0 +1,119 @@
+{
+  "document": "Requisition-ABCSTUDIOS-6105-03.pdf",
+  "customer": {
+    "customerId": "ABCSTUDIOS",
+    "customerName": "ABC Studios Inc",
+    "textInPdf": "ABC Studios",
+    "filter": "startswith(CustomerName,'ABC Studios')"
+  },
+  "jobNumber": "6105-03",
+  "date": "11/13/2026",
+  "lines": [
+    {
+      "line": 1,
+      "textInPdf": {
+        "form": "90",
+        "grade": "WPB",
+        "size": "2480",
+        "finish": "DOM"
+      },
+      "invex": {
+        "prm_frm": "90",
+        "grd_grd": "WPB",
+        "prm_size": "2480",
+        "prm_fnsh": "DOM"
+      },
+      "acumaticaDescription": "90WPB2480DOMLR 90SA234-WPB24\" S/80",
+      "filter": "startswith(Description,'90WPB2480DOM')",
+      "qty": 10,
+      "uom": "EA",
+      "unitPrice": 26.84,
+      "extPrice": 268.4
+    },
+    {
+      "line": 2,
+      "textInPdf": {
+        "form": "ELIPHD",
+        "grade": "70",
+        "size": "161000",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "ELIPHD",
+        "grd_grd": "70",
+        "prm_size": "161000",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "ELIPHD70161000COM2:1 ELLIP HDSA516-7016\" x 1.000\"",
+      "filter": "startswith(Description,'ELIPHD70161000COM')",
+      "qty": 12,
+      "uom": "EA",
+      "unitPrice": 88.92,
+      "extPrice": 1067.04
+    },
+    {
+      "line": 3,
+      "textInPdf": {
+        "form": "RFSO",
+        "grade": "AL6XN462",
+        "size": "3150",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RFSO",
+        "grd_grd": "AL6XN462",
+        "prm_size": "3150",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RFSOAL6XN4623150COMRFSOSB462-AL6XN3\" 150#",
+      "filter": "startswith(Description,'RFSOAL6XN4623150COM')",
+      "qty": 40,
+      "uom": "EA",
+      "unitPrice": 226.36,
+      "extPrice": 9054.4
+    },
+    {
+      "line": 4,
+      "textInPdf": {
+        "form": "RT",
+        "grade": "WP22",
+        "size": "8X415001000",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RT",
+        "grd_grd": "WP22",
+        "prm_size": "8X415001000",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RTWP228X415001000COMRED TEESA234-WP228\" X 4\" 1.500\"~1.000\"",
+      "filter": "startswith(Description,'RTWP228X415001000COM')",
+      "qty": 4,
+      "uom": "EA",
+      "unitPrice": 64.79,
+      "extPrice": 259.16
+    },
+    {
+      "line": 5,
+      "textInPdf": {
+        "form": "FFWNB",
+        "grade": "LF2",
+        "size": "36600813",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "FFWNB",
+        "grd_grd": "LF2",
+        "prm_size": "36600813",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "FFWNBLF236600813COMFFWN SER. BSA350-LF236\" 600# .813\"",
+      "filter": "startswith(Description,'FFWNBLF236600813COM')",
+      "qty": 8,
+      "uom": "EA",
+      "unitPrice": 574.98,
+      "extPrice": 4599.84
+    }
+  ],
+  "total": 15248.84
+}

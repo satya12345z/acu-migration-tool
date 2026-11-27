@@ -1,0 +1,182 @@
+{
+  "document": "Bill-of-Material-ABCVENTURE-8832-01.pdf",
+  "customer": {
+    "customerId": "ABCVENTURE",
+    "customerName": "ABC Capital Ventures",
+    "textInPdf": "ABC Capital",
+    "filter": "startswith(CustomerName,'ABC Capital')"
+  },
+  "jobNumber": "8832-01",
+  "date": "11/19/2026",
+  "lines": [
+    {
+      "line": 1,
+      "textInPdf": {
+        "form": "PCAS",
+        "grade": "106C",
+        "size": "1050154",
+        "finish": "AML"
+      },
+      "invex": {
+        "prm_frm": "PCAS",
+        "grd_grd": "106C",
+        "prm_size": "1050154",
+        "prm_fnsh": "AML"
+      },
+      "acumaticaDescription": "PCAS106C1050154AMLPipe-Carbon-SeamlessSA106-C1.050\" X .154\"",
+      "filter": "startswith(Description,'PCAS106C1050154AML')",
+      "qty": 2,
+      "uom": "EA",
+      "unitPrice": 908.9,
+      "extPrice": 1817.8
+    },
+    {
+      "line": 2,
+      "textInPdf": {
+        "form": "RT",
+        "grade": "WPB",
+        "size": "4X34080",
+        "finish": "AML"
+      },
+      "invex": {
+        "prm_frm": "RT",
+        "grd_grd": "WPB",
+        "prm_size": "4X34080",
+        "prm_fnsh": "AML"
+      },
+      "acumaticaDescription": "RTWPB4X34080AMLRED TEESA234-WPB4\" x 3\" S/40-80",
+      "filter": "startswith(Description,'RTWPB4X34080AML')",
+      "qty": 2,
+      "uom": "EA",
+      "unitPrice": 75.53,
+      "extPrice": 151.06
+    },
+    {
+      "line": 3,
+      "textInPdf": {
+        "form": "PCAW",
+        "grade": "C65C32",
+        "size": "30000375",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "PCAW",
+        "grd_grd": "C65C32",
+        "prm_size": "30000375",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "PCAWC65C3230000375COMPipe-Carbon-WeldedA671-CC65 CL32 EFW30\" x .375\"",
+      "filter": "startswith(Description,'PCAWC65C3230000375COM')",
+      "qty": 24,
+      "uom": "EA",
+      "unitPrice": 903.65,
+      "extPrice": 21687.6
+    },
+    {
+      "line": 4,
+      "textInPdf": {
+        "form": "RFLWN",
+        "grade": "LF2",
+        "size": "215016",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RFLWN",
+        "grd_grd": "LF2",
+        "prm_size": "215016",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RFLWNLF2215016COMRF LONG WNSA350-LF22\" 150# x 16\"",
+      "filter": "startswith(Description,'RFLWNLF2215016COM')",
+      "qty": 12,
+      "uom": "EA",
+      "unitPrice": 577.62,
+      "extPrice": 6931.44
+    },
+    {
+      "line": 5,
+      "textInPdf": {
+        "form": "RFWN",
+        "grade": "F9",
+        "size": "8600120",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RFWN",
+        "grd_grd": "F9",
+        "prm_size": "8600120",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RFWNF98600120COMRF WNSA182-F98\" 600# S/120",
+      "filter": "startswith(Description,'RFWNF98600120COM')",
+      "qty": 2,
+      "uom": "EA",
+      "unitPrice": 422.67,
+      "extPrice": 845.34
+    },
+    {
+      "line": 6,
+      "textInPdf": {
+        "form": "RFSW",
+        "grade": "F316",
+        "size": "1560080",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RFSW",
+        "grd_grd": "F316",
+        "prm_size": "1560080",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RFSWF3161560080COMRFSWSA182-F316/L1-1/2\" 600# S/80",
+      "filter": "startswith(Description,'RFSWF3161560080COM')",
+      "qty": 12,
+      "uom": "EA",
+      "unitPrice": 215.32,
+      "extPrice": 2583.84
+    },
+    {
+      "line": 7,
+      "textInPdf": {
+        "form": "CAP",
+        "grade": "WP22",
+        "size": "407502250MW",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "CAP",
+        "grd_grd": "WP22",
+        "prm_size": "407502250MW",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "CAPWP22407502250MWCOMBW CAPSA234-WP2240.750\" x 2.250 MIN WALL",
+      "filter": "startswith(Description,'CAPWP22407502250MWCOM')",
+      "qty": 15,
+      "uom": "EA",
+      "unitPrice": 301.05,
+      "extPrice": 4515.75
+    },
+    {
+      "line": 8,
+      "textInPdf": {
+        "form": "180",
+        "grade": "WP316",
+        "size": "280",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "180",
+        "grd_grd": "WP316",
+        "prm_size": "280",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "180WP316280COMLR 180SA403-WP316/L2\" S/80",
+      "filter": "startswith(Description,'180WP316280COM')",
+      "qty": 12,
+      "uom": "EA",
+      "unitPrice": 944.42,
+      "extPrice": 11333.04
+    }
+  ],
+  "total": 49865.87
+}

@@ -1,0 +1,161 @@
+{
+  "document": "RFQ-ABCHOLDING-2290-07.pdf",
+  "customer": {
+    "customerId": "ABCHOLDING",
+    "customerName": "ABC Holdings Inc",
+    "textInPdf": "ABC Holdings",
+    "filter": "startswith(CustomerName,'ABC Holdings')"
+  },
+  "jobNumber": "2290-07",
+  "date": "11/09/2026",
+  "lines": [
+    {
+      "line": 1,
+      "textInPdf": {
+        "form": "CSWG",
+        "grade": "WP304S",
+        "size": "75X37580",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "CSWG",
+        "grd_grd": "WP304S",
+        "prm_size": "75X37580",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "CSWGWP304S75X37580COMCONC SWAGESA403-WP304/L SMLS3/4\" x 3/8\" S/80",
+      "filter": "startswith(Description,'CSWGWP304S75X37580COM')",
+      "qty": 10,
+      "uom": "EA",
+      "unitPrice": 30.9,
+      "extPrice": 309
+    },
+    {
+      "line": 2,
+      "textInPdf": {
+        "form": "SWT",
+        "grade": "LF2",
+        "size": "253M",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "SWT",
+        "grd_grd": "LF2",
+        "prm_size": "253M",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "SWTLF2253MCOMSW TEESA350-LF22-1/2\" 3000#",
+      "filter": "startswith(Description,'SWTLF2253MCOM')",
+      "qty": 2,
+      "uom": "EA",
+      "unitPrice": 203.74,
+      "extPrice": 407.48
+    },
+    {
+      "line": 3,
+      "textInPdf": {
+        "form": "RBCR",
+        "grade": "45752",
+        "size": "2750",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RBCR",
+        "grd_grd": "45752",
+        "prm_size": "2750",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RBCR457522750COMROUND BAR CHROME PLATED1045 CPO 75MY .002\"2.750\" 1045 CPO 75K .002",
+      "filter": "startswith(Description,'RBCR457522750COM')",
+      "qty": 10,
+      "uom": "EA",
+      "unitPrice": 921.9,
+      "extPrice": 9219
+    },
+    {
+      "line": 4,
+      "textInPdf": {
+        "form": "PCAS",
+        "grade": "X60S",
+        "size": "8625500",
+        "finish": "AML"
+      },
+      "invex": {
+        "prm_frm": "PCAS",
+        "grd_grd": "X60S",
+        "prm_size": "8625500",
+        "prm_fnsh": "AML"
+      },
+      "acumaticaDescription": "PCASX60S8625500AMLPipe-Carbon-SeamlessAPI 5L X60 SMLS8.625'' x  0.500''",
+      "filter": "startswith(Description,'PCASX60S8625500AML')",
+      "qty": 40,
+      "uom": "EA",
+      "unitPrice": 362.88,
+      "extPrice": 14515.2
+    },
+    {
+      "line": 5,
+      "textInPdf": {
+        "form": "RTJWN",
+        "grade": "A105",
+        "size": "3600XXH",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RTJWN",
+        "grd_grd": "A105",
+        "prm_size": "3600XXH",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RTJWNA1053600XXHCOMRTJ WNSA1053\" 600# XXH",
+      "filter": "startswith(Description,'RTJWNA1053600XXHCOM')",
+      "qty": 30,
+      "uom": "EA",
+      "unitPrice": 220.89,
+      "extPrice": 6626.7
+    },
+    {
+      "line": 6,
+      "textInPdf": {
+        "form": "RFWNA",
+        "grade": "F65",
+        "size": "30600688",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RFWNA",
+        "grd_grd": "F65",
+        "prm_size": "30600688",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RFWNAF6530600688COMRF WN SER.ASA694-F6530\" 600# x .688\"",
+      "filter": "startswith(Description,'RFWNAF6530600688COM')",
+      "qty": 24,
+      "uom": "EA",
+      "unitPrice": 623.99,
+      "extPrice": 14975.76
+    },
+    {
+      "line": 7,
+      "textInPdf": {
+        "form": "RFBLND",
+        "grade": "F304",
+        "size": "24600",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RFBLND",
+        "grd_grd": "F304",
+        "prm_size": "24600",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RFBLNDF30424600COMRF BLINDSA182-F304/L24\" 600#",
+      "filter": "startswith(Description,'RFBLNDF30424600COM')",
+      "qty": 20,
+      "uom": "EA",
+      "unitPrice": 596.11,
+      "extPrice": 11922.2
+    }
+  ],
+  "total": 57975.34
+}

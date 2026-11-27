@@ -1,0 +1,140 @@
+{
+  "document": "Pull-List-ABARTENDE-4410-01.pdf",
+  "customer": {
+    "customerId": "ABARTENDE",
+    "customerName": "USA Bartending School",
+    "textInPdf": "Bartending School",
+    "filter": "substringof('Bartending School',CustomerName)"
+  },
+  "jobNumber": "4410-01",
+  "date": "11/02/2026",
+  "lines": [
+    {
+      "line": 1,
+      "textInPdf": {
+        "form": "RFLWN",
+        "grade": "F9",
+        "size": "156009",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RFLWN",
+        "grd_grd": "F9",
+        "prm_size": "156009",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RFLWNF9156009COMRF LONG WNSA182-F91-1/2\" 600# X 9\"",
+      "filter": "startswith(Description,'RFLWNF9156009COM')",
+      "qty": 4,
+      "uom": "EA",
+      "unitPrice": 780.64,
+      "extPrice": 3122.56
+    },
+    {
+      "line": 2,
+      "textInPdf": {
+        "form": "RFWN",
+        "grade": "F9",
+        "size": "215080",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RFWN",
+        "grd_grd": "F9",
+        "prm_size": "215080",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RFWNF9215080COMRF WNSA182-F92\" 150# S/80",
+      "filter": "startswith(Description,'RFWNF9215080COM')",
+      "qty": 6,
+      "uom": "EA",
+      "unitPrice": 726.81,
+      "extPrice": 4360.86
+    },
+    {
+      "line": 3,
+      "textInPdf": {
+        "form": "PCHS",
+        "grade": "P11",
+        "size": "76251000",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "PCHS",
+        "grd_grd": "P11",
+        "prm_size": "76251000",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "PCHSP1176251000COMPipe-Chrome-SeamlessSA335-P117.625'' x  1.000''",
+      "filter": "startswith(Description,'PCHSP1176251000COM')",
+      "qty": 30,
+      "uom": "EA",
+      "unitPrice": 408.16,
+      "extPrice": 12244.8
+    },
+    {
+      "line": 4,
+      "textInPdf": {
+        "form": "PCAW",
+        "grade": "X42E",
+        "size": "10750365",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "PCAW",
+        "grd_grd": "X42E",
+        "prm_size": "10750365",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "PCAWX42E10750365COMPipe-Carbon-WeldedA/SA53-B API5L-B PSL1 ERW10.750'' x .365''",
+      "filter": "startswith(Description,'PCAWX42E10750365COM')",
+      "qty": 4,
+      "uom": "EA",
+      "unitPrice": 355.43,
+      "extPrice": 1421.72
+    },
+    {
+      "line": 5,
+      "textInPdf": {
+        "form": "CAP",
+        "grade": "WP91",
+        "size": "125XXH",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "CAP",
+        "grd_grd": "WP91",
+        "prm_size": "125XXH",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "CAPWP91125XXHCOMBW CAPSA234-WP911-1/4\" S/XXH",
+      "filter": "startswith(Description,'CAPWP91125XXHCOM')",
+      "qty": 2,
+      "uom": "EA",
+      "unitPrice": 765.37,
+      "extPrice": 1530.74
+    },
+    {
+      "line": 6,
+      "textInPdf": {
+        "form": "SWT",
+        "grade": "F5",
+        "size": "159M",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "SWT",
+        "grd_grd": "F5",
+        "prm_size": "159M",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "SWTF5159MCOMSW TEESA182-F51-1/2\" 9000#",
+      "filter": "startswith(Description,'SWTF5159MCOM')",
+      "qty": 30,
+      "uom": "EA",
+      "unitPrice": 102.95,
+      "extPrice": 3088.5
+    }
+  ],
+  "total": 25769.18
+}

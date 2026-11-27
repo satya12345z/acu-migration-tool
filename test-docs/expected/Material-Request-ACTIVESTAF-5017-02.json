@@ -1,0 +1,140 @@
+{
+  "document": "Material-Request-ACTIVESTAF-5017-02.pdf",
+  "customer": {
+    "customerId": "ACTIVESTAF",
+    "customerName": "Active Staffing Service",
+    "textInPdf": "Active Staffing",
+    "filter": "startswith(CustomerName,'Active Staffing')"
+  },
+  "jobNumber": "5017-02",
+  "date": "11/24/2026",
+  "lines": [
+    {
+      "line": 1,
+      "textInPdf": {
+        "form": "PCHS",
+        "grade": "P5",
+        "size": "4500531",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "PCHS",
+        "grd_grd": "P5",
+        "prm_size": "4500531",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "PCHSP54500531COMPipe-Chrome-SeamlessSA335-P54.500'' x  0.531''",
+      "filter": "startswith(Description,'PCHSP54500531COM')",
+      "qty": 4,
+      "uom": "EA",
+      "unitPrice": 265,
+      "extPrice": 1060
+    },
+    {
+      "line": 2,
+      "textInPdf": {
+        "form": "PSTW",
+        "grade": "316E",
+        "size": "36000375",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "PSTW",
+        "grd_grd": "316E",
+        "prm_size": "36000375",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "PSTW316E36000375COMPipe-Stainless-WeldedSA312-TP316/L WELDED36.000\" x .375\"",
+      "filter": "startswith(Description,'PSTW316E36000375COM')",
+      "qty": 2,
+      "uom": "EA",
+      "unitPrice": 389.71,
+      "extPrice": 779.42
+    },
+    {
+      "line": 3,
+      "textInPdf": {
+        "form": "POTW",
+        "grade": "2205",
+        "size": "1900145",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "POTW",
+        "grd_grd": "2205",
+        "prm_size": "1900145",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "POTW22051900145COMPipe-Other-WeldedA790 UNS32205 SMLS1.900\" X 0.145\"",
+      "filter": "startswith(Description,'POTW22051900145COM')",
+      "qty": 4,
+      "uom": "EA",
+      "unitPrice": 797.1,
+      "extPrice": 3188.4
+    },
+    {
+      "line": 4,
+      "textInPdf": {
+        "form": "ER",
+        "grade": "WPB",
+        "size": "10X8XH",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "ER",
+        "grd_grd": "WPB",
+        "prm_size": "10X8XH",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "ERWPB10X8XHCOMECC REDSA234-WPB10\" X 8\" XH",
+      "filter": "startswith(Description,'ERWPB10X8XHCOM')",
+      "qty": 10,
+      "uom": "EA",
+      "unitPrice": 850.99,
+      "extPrice": 8509.9
+    },
+    {
+      "line": 5,
+      "textInPdf": {
+        "form": "PCHW",
+        "grade": "11C22",
+        "size": "24000375",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "PCHW",
+        "grd_grd": "11C22",
+        "prm_size": "24000375",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "PCHW11C2224000375COMPipe-Chrome-WeldedA691 GR.11 CL2224\" x 0.375\"",
+      "filter": "startswith(Description,'PCHW11C2224000375COM')",
+      "qty": 12,
+      "uom": "EA",
+      "unitPrice": 353.14,
+      "extPrice": 4237.68
+    },
+    {
+      "line": 6,
+      "textInPdf": {
+        "form": "RFSW",
+        "grade": "A105",
+        "size": "75600XXH",
+        "finish": "COM"
+      },
+      "invex": {
+        "prm_frm": "RFSW",
+        "grd_grd": "A105",
+        "prm_size": "75600XXH",
+        "prm_fnsh": "COM"
+      },
+      "acumaticaDescription": "RFSWA10575600XXHCOMRFSWSA1053/4\" 600# S/XXH",
+      "filter": "startswith(Description,'RFSWA10575600XXHCOM')",
+      "qty": 8,
+      "uom": "EA",
+      "unitPrice": 850.17,
+      "extPrice": 6801.36
+    }
+  ],
+  "total": 24576.76
+}
